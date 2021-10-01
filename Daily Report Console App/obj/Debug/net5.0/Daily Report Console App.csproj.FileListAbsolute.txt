@@ -1,0 +1,16 @@
+C:\Users\Chadp\source\repos\Daily Report Console App\obj\Debug\net5.0\Daily Report Console App.csproj.AssemblyReference.cache
+C:\Users\Chadp\source\repos\Daily Report Console App\obj\Debug\net5.0\Daily Report Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chadp\source\repos\Daily Report Console App\obj\Debug\net5.0\Daily Report Console App.AssemblyInfoInputs.cache
+C:\Users\Chadp\source\repos\Daily Report Console App\obj\Debug\net5.0\Daily Report Console App.AssemblyInfo.cs
+C:\Users\Chadp\source\repos\Daily Report Console App\obj\Debug\net5.0\Daily Report Console App.csproj.CoreCompileInputs.cache
+C:\Users\Chadp\source\repos\Daily Report Console App\bin\Debug\net5.0\Daily Report Console App.exe
+C:\Users\Chadp\source\repos\Daily Report Console App\bin\Debug\net5.0\Daily Report Console App.deps.json
+C:\Users\Chadp\source\repos\Daily Report Console App\bin\Debug\net5.0\Daily Report Console App.runtimeconfig.json
+C:\Users\Chadp\source\repos\Daily Report Console App\bin\Debug\net5.0\Daily Report Console App.runtimeconfig.dev.json
+C:\Users\Chadp\source\repos\Daily Report Console App\bin\Debug\net5.0\Daily Report Console App.dll
+C:\Users\Chadp\source\repos\Daily Report Console App\bin\Debug\net5.0\ref\Daily Report Console App.dll
+C:\Users\Chadp\source\repos\Daily Report Console App\bin\Debug\net5.0\Daily Report Console App.pdb
+C:\Users\Chadp\source\repos\Daily Report Console App\obj\Debug\net5.0\Daily Report Console App.dll
+C:\Users\Chadp\source\repos\Daily Report Console App\obj\Debug\net5.0\ref\Daily Report Console App.dll
+C:\Users\Chadp\source\repos\Daily Report Console App\obj\Debug\net5.0\Daily Report Console App.pdb
+C:\Users\Chadp\source\repos\Daily Report Console App\obj\Debug\net5.0\Daily Report Console App.genruntimeconfig.cache
