@@ -6,8 +6,8 @@ namespace Daily_Report_Console_App
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Academy of Learning Career College\nStudent Daily Report");
-            Console.WriteLine("\nWhat course are you in?");
+            Console.WriteLine("Academy of Learning Career College\r\nStudent Daily Report");
+            Console.WriteLine("\r\nWhat course are you in?");
             string studCourse = Console.ReadLine();
 
             Console.WriteLine("What page number?");
