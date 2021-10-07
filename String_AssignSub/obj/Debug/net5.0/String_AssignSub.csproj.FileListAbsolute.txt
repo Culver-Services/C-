@@ -1,0 +1,16 @@
+C:\Users\Chadp\source\repos\String_AssignSub\obj\Debug\net5.0\String_AssignSub.csproj.AssemblyReference.cache
+C:\Users\Chadp\source\repos\String_AssignSub\obj\Debug\net5.0\String_AssignSub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chadp\source\repos\String_AssignSub\obj\Debug\net5.0\String_AssignSub.AssemblyInfoInputs.cache
+C:\Users\Chadp\source\repos\String_AssignSub\obj\Debug\net5.0\String_AssignSub.AssemblyInfo.cs
+C:\Users\Chadp\source\repos\String_AssignSub\obj\Debug\net5.0\String_AssignSub.csproj.CoreCompileInputs.cache
+C:\Users\Chadp\source\repos\String_AssignSub\bin\Debug\net5.0\String_AssignSub.exe
+C:\Users\Chadp\source\repos\String_AssignSub\bin\Debug\net5.0\String_AssignSub.deps.json
+C:\Users\Chadp\source\repos\String_AssignSub\bin\Debug\net5.0\String_AssignSub.runtimeconfig.json
+C:\Users\Chadp\source\repos\String_AssignSub\bin\Debug\net5.0\String_AssignSub.runtimeconfig.dev.json
+C:\Users\Chadp\source\repos\String_AssignSub\bin\Debug\net5.0\String_AssignSub.dll
+C:\Users\Chadp\source\repos\String_AssignSub\bin\Debug\net5.0\ref\String_AssignSub.dll
+C:\Users\Chadp\source\repos\String_AssignSub\bin\Debug\net5.0\String_AssignSub.pdb
+C:\Users\Chadp\source\repos\String_AssignSub\obj\Debug\net5.0\String_AssignSub.dll
+C:\Users\Chadp\source\repos\String_AssignSub\obj\Debug\net5.0\ref\String_AssignSub.dll
+C:\Users\Chadp\source\repos\String_AssignSub\obj\Debug\net5.0\String_AssignSub.pdb
+C:\Users\Chadp\source\repos\String_AssignSub\obj\Debug\net5.0\String_AssignSub.genruntimeconfig.cache
