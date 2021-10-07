@@ -42,5 +42,7 @@ namespace Price_Quote_Application
                     Console.WriteLine("Thank you");
                     Console.ReadLine();
                 }
+            }
+        }
     }
 }
