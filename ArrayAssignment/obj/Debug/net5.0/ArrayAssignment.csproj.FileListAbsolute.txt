@@ -1,0 +1,16 @@
+C:\Users\Chadp\source\repos\ArrayAssignment\obj\Debug\net5.0\ArrayAssignment.csproj.AssemblyReference.cache
+C:\Users\Chadp\source\repos\ArrayAssignment\obj\Debug\net5.0\ArrayAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chadp\source\repos\ArrayAssignment\obj\Debug\net5.0\ArrayAssignment.AssemblyInfoInputs.cache
+C:\Users\Chadp\source\repos\ArrayAssignment\obj\Debug\net5.0\ArrayAssignment.AssemblyInfo.cs
+C:\Users\Chadp\source\repos\ArrayAssignment\obj\Debug\net5.0\ArrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Chadp\source\repos\ArrayAssignment\bin\Debug\net5.0\ArrayAssignment.exe
+C:\Users\Chadp\source\repos\ArrayAssignment\bin\Debug\net5.0\ArrayAssignment.deps.json
+C:\Users\Chadp\source\repos\ArrayAssignment\bin\Debug\net5.0\ArrayAssignment.runtimeconfig.json
+C:\Users\Chadp\source\repos\ArrayAssignment\bin\Debug\net5.0\ArrayAssignment.runtimeconfig.dev.json
+C:\Users\Chadp\source\repos\ArrayAssignment\bin\Debug\net5.0\ArrayAssignment.dll
+C:\Users\Chadp\source\repos\ArrayAssignment\bin\Debug\net5.0\ref\ArrayAssignment.dll
+C:\Users\Chadp\source\repos\ArrayAssignment\bin\Debug\net5.0\ArrayAssignment.pdb
+C:\Users\Chadp\source\repos\ArrayAssignment\obj\Debug\net5.0\ArrayAssignment.dll
+C:\Users\Chadp\source\repos\ArrayAssignment\obj\Debug\net5.0\ref\ArrayAssignment.dll
+C:\Users\Chadp\source\repos\ArrayAssignment\obj\Debug\net5.0\ArrayAssignment.pdb
+C:\Users\Chadp\source\repos\ArrayAssignment\obj\Debug\net5.0\ArrayAssignment.genruntimeconfig.cache
