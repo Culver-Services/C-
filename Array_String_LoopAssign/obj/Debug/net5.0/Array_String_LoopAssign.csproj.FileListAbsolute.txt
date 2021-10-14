@@ -1,0 +1,16 @@
+C:\Users\Chadp\source\repos\Array_String_LoopAssign\bin\Debug\net5.0\Array_String_LoopAssign.exe
+C:\Users\Chadp\source\repos\Array_String_LoopAssign\bin\Debug\net5.0\Array_String_LoopAssign.deps.json
+C:\Users\Chadp\source\repos\Array_String_LoopAssign\bin\Debug\net5.0\Array_String_LoopAssign.runtimeconfig.json
+C:\Users\Chadp\source\repos\Array_String_LoopAssign\bin\Debug\net5.0\Array_String_LoopAssign.runtimeconfig.dev.json
+C:\Users\Chadp\source\repos\Array_String_LoopAssign\bin\Debug\net5.0\Array_String_LoopAssign.dll
+C:\Users\Chadp\source\repos\Array_String_LoopAssign\bin\Debug\net5.0\ref\Array_String_LoopAssign.dll
+C:\Users\Chadp\source\repos\Array_String_LoopAssign\bin\Debug\net5.0\Array_String_LoopAssign.pdb
+C:\Users\Chadp\source\repos\Array_String_LoopAssign\obj\Debug\net5.0\Array_String_LoopAssign.csproj.AssemblyReference.cache
+C:\Users\Chadp\source\repos\Array_String_LoopAssign\obj\Debug\net5.0\Array_String_LoopAssign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chadp\source\repos\Array_String_LoopAssign\obj\Debug\net5.0\Array_String_LoopAssign.AssemblyInfoInputs.cache
+C:\Users\Chadp\source\repos\Array_String_LoopAssign\obj\Debug\net5.0\Array_String_LoopAssign.AssemblyInfo.cs
+C:\Users\Chadp\source\repos\Array_String_LoopAssign\obj\Debug\net5.0\Array_String_LoopAssign.csproj.CoreCompileInputs.cache
+C:\Users\Chadp\source\repos\Array_String_LoopAssign\obj\Debug\net5.0\Array_String_LoopAssign.dll
+C:\Users\Chadp\source\repos\Array_String_LoopAssign\obj\Debug\net5.0\ref\Array_String_LoopAssign.dll
+C:\Users\Chadp\source\repos\Array_String_LoopAssign\obj\Debug\net5.0\Array_String_LoopAssign.pdb
+C:\Users\Chadp\source\repos\Array_String_LoopAssign\obj\Debug\net5.0\Array_String_LoopAssign.genruntimeconfig.cache
