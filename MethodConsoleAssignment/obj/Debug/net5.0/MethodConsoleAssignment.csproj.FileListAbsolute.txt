@@ -1,0 +1,16 @@
+C:\Users\Chadp\source\repos\MethodConsoleAssignment\bin\Debug\net5.0\MethodConsoleAssignment.exe
+C:\Users\Chadp\source\repos\MethodConsoleAssignment\bin\Debug\net5.0\MethodConsoleAssignment.deps.json
+C:\Users\Chadp\source\repos\MethodConsoleAssignment\bin\Debug\net5.0\MethodConsoleAssignment.runtimeconfig.json
+C:\Users\Chadp\source\repos\MethodConsoleAssignment\bin\Debug\net5.0\MethodConsoleAssignment.runtimeconfig.dev.json
+C:\Users\Chadp\source\repos\MethodConsoleAssignment\bin\Debug\net5.0\MethodConsoleAssignment.dll
+C:\Users\Chadp\source\repos\MethodConsoleAssignment\bin\Debug\net5.0\ref\MethodConsoleAssignment.dll
+C:\Users\Chadp\source\repos\MethodConsoleAssignment\bin\Debug\net5.0\MethodConsoleAssignment.pdb
+C:\Users\Chadp\source\repos\MethodConsoleAssignment\obj\Debug\net5.0\MethodConsoleAssignment.csproj.AssemblyReference.cache
+C:\Users\Chadp\source\repos\MethodConsoleAssignment\obj\Debug\net5.0\MethodConsoleAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chadp\source\repos\MethodConsoleAssignment\obj\Debug\net5.0\MethodConsoleAssignment.AssemblyInfoInputs.cache
+C:\Users\Chadp\source\repos\MethodConsoleAssignment\obj\Debug\net5.0\MethodConsoleAssignment.AssemblyInfo.cs
+C:\Users\Chadp\source\repos\MethodConsoleAssignment\obj\Debug\net5.0\MethodConsoleAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Chadp\source\repos\MethodConsoleAssignment\obj\Debug\net5.0\MethodConsoleAssignment.dll
+C:\Users\Chadp\source\repos\MethodConsoleAssignment\obj\Debug\net5.0\ref\MethodConsoleAssignment.dll
+C:\Users\Chadp\source\repos\MethodConsoleAssignment\obj\Debug\net5.0\MethodConsoleAssignment.pdb
+C:\Users\Chadp\source\repos\MethodConsoleAssignment\obj\Debug\net5.0\MethodConsoleAssignment.genruntimeconfig.cache
