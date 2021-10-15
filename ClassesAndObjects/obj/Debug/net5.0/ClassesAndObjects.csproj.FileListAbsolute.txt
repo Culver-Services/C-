@@ -1,0 +1,16 @@
+C:\Users\Chadp\source\repos\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.exe
+C:\Users\Chadp\source\repos\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.deps.json
+C:\Users\Chadp\source\repos\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.runtimeconfig.json
+C:\Users\Chadp\source\repos\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.runtimeconfig.dev.json
+C:\Users\Chadp\source\repos\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.dll
+C:\Users\Chadp\source\repos\ClassesAndObjects\bin\Debug\net5.0\ref\ClassesAndObjects.dll
+C:\Users\Chadp\source\repos\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.pdb
+C:\Users\Chadp\source\repos\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.csproj.AssemblyReference.cache
+C:\Users\Chadp\source\repos\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chadp\source\repos\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.AssemblyInfoInputs.cache
+C:\Users\Chadp\source\repos\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.AssemblyInfo.cs
+C:\Users\Chadp\source\repos\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\Chadp\source\repos\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.dll
+C:\Users\Chadp\source\repos\ClassesAndObjects\obj\Debug\net5.0\ref\ClassesAndObjects.dll
+C:\Users\Chadp\source\repos\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.pdb
+C:\Users\Chadp\source\repos\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.genruntimeconfig.cache
