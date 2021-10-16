@@ -1,0 +1,16 @@
+C:\Users\Chadp\source\repos\Classes And Methods App p3\bin\Debug\net5.0\Classes And Methods App p3.exe
+C:\Users\Chadp\source\repos\Classes And Methods App p3\bin\Debug\net5.0\Classes And Methods App p3.deps.json
+C:\Users\Chadp\source\repos\Classes And Methods App p3\bin\Debug\net5.0\Classes And Methods App p3.runtimeconfig.json
+C:\Users\Chadp\source\repos\Classes And Methods App p3\bin\Debug\net5.0\Classes And Methods App p3.runtimeconfig.dev.json
+C:\Users\Chadp\source\repos\Classes And Methods App p3\bin\Debug\net5.0\Classes And Methods App p3.dll
+C:\Users\Chadp\source\repos\Classes And Methods App p3\bin\Debug\net5.0\ref\Classes And Methods App p3.dll
+C:\Users\Chadp\source\repos\Classes And Methods App p3\bin\Debug\net5.0\Classes And Methods App p3.pdb
+C:\Users\Chadp\source\repos\Classes And Methods App p3\obj\Debug\net5.0\Classes And Methods App p3.csproj.AssemblyReference.cache
+C:\Users\Chadp\source\repos\Classes And Methods App p3\obj\Debug\net5.0\Classes And Methods App p3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chadp\source\repos\Classes And Methods App p3\obj\Debug\net5.0\Classes And Methods App p3.AssemblyInfoInputs.cache
+C:\Users\Chadp\source\repos\Classes And Methods App p3\obj\Debug\net5.0\Classes And Methods App p3.AssemblyInfo.cs
+C:\Users\Chadp\source\repos\Classes And Methods App p3\obj\Debug\net5.0\Classes And Methods App p3.csproj.CoreCompileInputs.cache
+C:\Users\Chadp\source\repos\Classes And Methods App p3\obj\Debug\net5.0\Classes And Methods App p3.dll
+C:\Users\Chadp\source\repos\Classes And Methods App p3\obj\Debug\net5.0\ref\Classes And Methods App p3.dll
+C:\Users\Chadp\source\repos\Classes And Methods App p3\obj\Debug\net5.0\Classes And Methods App p3.pdb
+C:\Users\Chadp\source\repos\Classes And Methods App p3\obj\Debug\net5.0\Classes And Methods App p3.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Classes And Methods App p3/1.0.0": {
+        "runtime": {
+          "Classes And Methods App p3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Classes And Methods App p3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
