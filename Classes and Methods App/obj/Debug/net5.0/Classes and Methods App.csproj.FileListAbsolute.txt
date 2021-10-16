@@ -1,0 +1,16 @@
+C:\Users\Chadp\source\repos\Classes and Methods App\bin\Debug\net5.0\Classes and Methods App.exe
+C:\Users\Chadp\source\repos\Classes and Methods App\bin\Debug\net5.0\Classes and Methods App.deps.json
+C:\Users\Chadp\source\repos\Classes and Methods App\bin\Debug\net5.0\Classes and Methods App.runtimeconfig.json
+C:\Users\Chadp\source\repos\Classes and Methods App\bin\Debug\net5.0\Classes and Methods App.runtimeconfig.dev.json
+C:\Users\Chadp\source\repos\Classes and Methods App\bin\Debug\net5.0\Classes and Methods App.dll
+C:\Users\Chadp\source\repos\Classes and Methods App\bin\Debug\net5.0\ref\Classes and Methods App.dll
+C:\Users\Chadp\source\repos\Classes and Methods App\bin\Debug\net5.0\Classes and Methods App.pdb
+C:\Users\Chadp\source\repos\Classes and Methods App\obj\Debug\net5.0\Classes and Methods App.csproj.AssemblyReference.cache
+C:\Users\Chadp\source\repos\Classes and Methods App\obj\Debug\net5.0\Classes and Methods App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chadp\source\repos\Classes and Methods App\obj\Debug\net5.0\Classes and Methods App.AssemblyInfoInputs.cache
+C:\Users\Chadp\source\repos\Classes and Methods App\obj\Debug\net5.0\Classes and Methods App.AssemblyInfo.cs
+C:\Users\Chadp\source\repos\Classes and Methods App\obj\Debug\net5.0\Classes and Methods App.csproj.CoreCompileInputs.cache
+C:\Users\Chadp\source\repos\Classes and Methods App\obj\Debug\net5.0\Classes and Methods App.dll
+C:\Users\Chadp\source\repos\Classes and Methods App\obj\Debug\net5.0\ref\Classes and Methods App.dll
+C:\Users\Chadp\source\repos\Classes and Methods App\obj\Debug\net5.0\Classes and Methods App.pdb
+C:\Users\Chadp\source\repos\Classes and Methods App\obj\Debug\net5.0\Classes and Methods App.genruntimeconfig.cache
