@@ -1,0 +1,16 @@
+C:\Users\Chadp\source\repos\ClassMethodApp\bin\Debug\net5.0\ClassMethodApp.exe
+C:\Users\Chadp\source\repos\ClassMethodApp\bin\Debug\net5.0\ClassMethodApp.deps.json
+C:\Users\Chadp\source\repos\ClassMethodApp\bin\Debug\net5.0\ClassMethodApp.runtimeconfig.json
+C:\Users\Chadp\source\repos\ClassMethodApp\bin\Debug\net5.0\ClassMethodApp.runtimeconfig.dev.json
+C:\Users\Chadp\source\repos\ClassMethodApp\bin\Debug\net5.0\ClassMethodApp.dll
+C:\Users\Chadp\source\repos\ClassMethodApp\bin\Debug\net5.0\ref\ClassMethodApp.dll
+C:\Users\Chadp\source\repos\ClassMethodApp\bin\Debug\net5.0\ClassMethodApp.pdb
+C:\Users\Chadp\source\repos\ClassMethodApp\obj\Debug\net5.0\ClassMethodApp.csproj.AssemblyReference.cache
+C:\Users\Chadp\source\repos\ClassMethodApp\obj\Debug\net5.0\ClassMethodApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chadp\source\repos\ClassMethodApp\obj\Debug\net5.0\ClassMethodApp.AssemblyInfoInputs.cache
+C:\Users\Chadp\source\repos\ClassMethodApp\obj\Debug\net5.0\ClassMethodApp.AssemblyInfo.cs
+C:\Users\Chadp\source\repos\ClassMethodApp\obj\Debug\net5.0\ClassMethodApp.csproj.CoreCompileInputs.cache
+C:\Users\Chadp\source\repos\ClassMethodApp\obj\Debug\net5.0\ClassMethodApp.dll
+C:\Users\Chadp\source\repos\ClassMethodApp\obj\Debug\net5.0\ref\ClassMethodApp.dll
+C:\Users\Chadp\source\repos\ClassMethodApp\obj\Debug\net5.0\ClassMethodApp.pdb
+C:\Users\Chadp\source\repos\ClassMethodApp\obj\Debug\net5.0\ClassMethodApp.genruntimeconfig.cache
