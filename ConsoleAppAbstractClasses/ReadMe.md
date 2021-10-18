@@ -6,4 +6,6 @@ Create another class called Employee and have it inherit from the Person class.
 
 Implement the SayName() method inside of the Employee class.
 
-Inside the Main() method, instantiate an Employee object with firstName "Sample" and lastName "Student". Call the SayName() method on the object.
+Inside the Main() method, instantiate an Employee object with firstName "Sample" and lastName "Student". 
+
+Call the SayName() method on the object.
