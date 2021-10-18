@@ -1,0 +1,16 @@
+C:\Users\Chadp\source\repos\InheritanceConsoleApp\obj\Debug\net5.0\InheritanceConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Chadp\source\repos\InheritanceConsoleApp\obj\Debug\net5.0\InheritanceConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chadp\source\repos\InheritanceConsoleApp\obj\Debug\net5.0\InheritanceConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Chadp\source\repos\InheritanceConsoleApp\obj\Debug\net5.0\InheritanceConsoleApp.AssemblyInfo.cs
+C:\Users\Chadp\source\repos\InheritanceConsoleApp\obj\Debug\net5.0\InheritanceConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Chadp\source\repos\InheritanceConsoleApp\bin\Debug\net5.0\InheritanceConsoleApp.exe
+C:\Users\Chadp\source\repos\InheritanceConsoleApp\bin\Debug\net5.0\InheritanceConsoleApp.deps.json
+C:\Users\Chadp\source\repos\InheritanceConsoleApp\bin\Debug\net5.0\InheritanceConsoleApp.runtimeconfig.json
+C:\Users\Chadp\source\repos\InheritanceConsoleApp\bin\Debug\net5.0\InheritanceConsoleApp.runtimeconfig.dev.json
+C:\Users\Chadp\source\repos\InheritanceConsoleApp\bin\Debug\net5.0\InheritanceConsoleApp.dll
+C:\Users\Chadp\source\repos\InheritanceConsoleApp\bin\Debug\net5.0\ref\InheritanceConsoleApp.dll
+C:\Users\Chadp\source\repos\InheritanceConsoleApp\bin\Debug\net5.0\InheritanceConsoleApp.pdb
+C:\Users\Chadp\source\repos\InheritanceConsoleApp\obj\Debug\net5.0\InheritanceConsoleApp.dll
+C:\Users\Chadp\source\repos\InheritanceConsoleApp\obj\Debug\net5.0\ref\InheritanceConsoleApp.dll
+C:\Users\Chadp\source\repos\InheritanceConsoleApp\obj\Debug\net5.0\InheritanceConsoleApp.pdb
+C:\Users\Chadp\source\repos\InheritanceConsoleApp\obj\Debug\net5.0\InheritanceConsoleApp.genruntimeconfig.cache
