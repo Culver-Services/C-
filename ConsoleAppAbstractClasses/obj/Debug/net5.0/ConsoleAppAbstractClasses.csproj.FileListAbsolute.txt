@@ -1,0 +1,16 @@
+C:\Users\Chadp\source\repos\ConsoleAppAbstractClasses\obj\Debug\net5.0\ConsoleAppAbstractClasses.csproj.AssemblyReference.cache
+C:\Users\Chadp\source\repos\ConsoleAppAbstractClasses\obj\Debug\net5.0\ConsoleAppAbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chadp\source\repos\ConsoleAppAbstractClasses\obj\Debug\net5.0\ConsoleAppAbstractClasses.AssemblyInfoInputs.cache
+C:\Users\Chadp\source\repos\ConsoleAppAbstractClasses\obj\Debug\net5.0\ConsoleAppAbstractClasses.AssemblyInfo.cs
+C:\Users\Chadp\source\repos\ConsoleAppAbstractClasses\obj\Debug\net5.0\ConsoleAppAbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\Chadp\source\repos\ConsoleAppAbstractClasses\bin\Debug\net5.0\ConsoleAppAbstractClasses.exe
+C:\Users\Chadp\source\repos\ConsoleAppAbstractClasses\bin\Debug\net5.0\ConsoleAppAbstractClasses.deps.json
+C:\Users\Chadp\source\repos\ConsoleAppAbstractClasses\bin\Debug\net5.0\ConsoleAppAbstractClasses.runtimeconfig.json
+C:\Users\Chadp\source\repos\ConsoleAppAbstractClasses\bin\Debug\net5.0\ConsoleAppAbstractClasses.runtimeconfig.dev.json
+C:\Users\Chadp\source\repos\ConsoleAppAbstractClasses\bin\Debug\net5.0\ConsoleAppAbstractClasses.dll
+C:\Users\Chadp\source\repos\ConsoleAppAbstractClasses\bin\Debug\net5.0\ref\ConsoleAppAbstractClasses.dll
+C:\Users\Chadp\source\repos\ConsoleAppAbstractClasses\bin\Debug\net5.0\ConsoleAppAbstractClasses.pdb
+C:\Users\Chadp\source\repos\ConsoleAppAbstractClasses\obj\Debug\net5.0\ConsoleAppAbstractClasses.dll
+C:\Users\Chadp\source\repos\ConsoleAppAbstractClasses\obj\Debug\net5.0\ref\ConsoleAppAbstractClasses.dll
+C:\Users\Chadp\source\repos\ConsoleAppAbstractClasses\obj\Debug\net5.0\ConsoleAppAbstractClasses.pdb
+C:\Users\Chadp\source\repos\ConsoleAppAbstractClasses\obj\Debug\net5.0\ConsoleAppAbstractClasses.genruntimeconfig.cache
