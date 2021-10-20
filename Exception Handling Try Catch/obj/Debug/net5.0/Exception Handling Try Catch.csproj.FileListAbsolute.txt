@@ -1,0 +1,16 @@
+C:\Users\Chadp\source\repos\Exception Handling Try Catch\bin\Debug\net5.0\Exception Handling Try Catch.exe
+C:\Users\Chadp\source\repos\Exception Handling Try Catch\bin\Debug\net5.0\Exception Handling Try Catch.deps.json
+C:\Users\Chadp\source\repos\Exception Handling Try Catch\bin\Debug\net5.0\Exception Handling Try Catch.runtimeconfig.json
+C:\Users\Chadp\source\repos\Exception Handling Try Catch\bin\Debug\net5.0\Exception Handling Try Catch.runtimeconfig.dev.json
+C:\Users\Chadp\source\repos\Exception Handling Try Catch\bin\Debug\net5.0\Exception Handling Try Catch.dll
+C:\Users\Chadp\source\repos\Exception Handling Try Catch\bin\Debug\net5.0\ref\Exception Handling Try Catch.dll
+C:\Users\Chadp\source\repos\Exception Handling Try Catch\bin\Debug\net5.0\Exception Handling Try Catch.pdb
+C:\Users\Chadp\source\repos\Exception Handling Try Catch\obj\Debug\net5.0\Exception Handling Try Catch.csproj.AssemblyReference.cache
+C:\Users\Chadp\source\repos\Exception Handling Try Catch\obj\Debug\net5.0\Exception Handling Try Catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chadp\source\repos\Exception Handling Try Catch\obj\Debug\net5.0\Exception Handling Try Catch.AssemblyInfoInputs.cache
+C:\Users\Chadp\source\repos\Exception Handling Try Catch\obj\Debug\net5.0\Exception Handling Try Catch.AssemblyInfo.cs
+C:\Users\Chadp\source\repos\Exception Handling Try Catch\obj\Debug\net5.0\Exception Handling Try Catch.csproj.CoreCompileInputs.cache
+C:\Users\Chadp\source\repos\Exception Handling Try Catch\obj\Debug\net5.0\Exception Handling Try Catch.dll
+C:\Users\Chadp\source\repos\Exception Handling Try Catch\obj\Debug\net5.0\ref\Exception Handling Try Catch.dll
+C:\Users\Chadp\source\repos\Exception Handling Try Catch\obj\Debug\net5.0\Exception Handling Try Catch.pdb
+C:\Users\Chadp\source\repos\Exception Handling Try Catch\obj\Debug\net5.0\Exception Handling Try Catch.genruntimeconfig.cache

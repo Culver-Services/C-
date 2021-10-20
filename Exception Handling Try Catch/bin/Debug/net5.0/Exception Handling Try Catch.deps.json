@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exception Handling Try Catch/1.0.0": {
+        "runtime": {
+          "Exception Handling Try Catch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exception Handling Try Catch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
