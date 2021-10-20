@@ -1,0 +1,16 @@
+C:\Users\Chadp\source\repos\Additional Features Assignment\obj\Debug\net5.0\Additional Features Assignment.csproj.AssemblyReference.cache
+C:\Users\Chadp\source\repos\Additional Features Assignment\obj\Debug\net5.0\Additional Features Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chadp\source\repos\Additional Features Assignment\obj\Debug\net5.0\Additional Features Assignment.AssemblyInfoInputs.cache
+C:\Users\Chadp\source\repos\Additional Features Assignment\obj\Debug\net5.0\Additional Features Assignment.AssemblyInfo.cs
+C:\Users\Chadp\source\repos\Additional Features Assignment\obj\Debug\net5.0\Additional Features Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Chadp\source\repos\Additional Features Assignment\bin\Debug\net5.0\Additional Features Assignment.exe
+C:\Users\Chadp\source\repos\Additional Features Assignment\bin\Debug\net5.0\Additional Features Assignment.deps.json
+C:\Users\Chadp\source\repos\Additional Features Assignment\bin\Debug\net5.0\Additional Features Assignment.runtimeconfig.json
+C:\Users\Chadp\source\repos\Additional Features Assignment\bin\Debug\net5.0\Additional Features Assignment.runtimeconfig.dev.json
+C:\Users\Chadp\source\repos\Additional Features Assignment\bin\Debug\net5.0\Additional Features Assignment.dll
+C:\Users\Chadp\source\repos\Additional Features Assignment\bin\Debug\net5.0\ref\Additional Features Assignment.dll
+C:\Users\Chadp\source\repos\Additional Features Assignment\bin\Debug\net5.0\Additional Features Assignment.pdb
+C:\Users\Chadp\source\repos\Additional Features Assignment\obj\Debug\net5.0\Additional Features Assignment.dll
+C:\Users\Chadp\source\repos\Additional Features Assignment\obj\Debug\net5.0\ref\Additional Features Assignment.dll
+C:\Users\Chadp\source\repos\Additional Features Assignment\obj\Debug\net5.0\Additional Features Assignment.pdb
+C:\Users\Chadp\source\repos\Additional Features Assignment\obj\Debug\net5.0\Additional Features Assignment.genruntimeconfig.cache

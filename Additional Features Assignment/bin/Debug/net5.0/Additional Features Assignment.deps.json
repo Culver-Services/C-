@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Additional Features Assignment/1.0.0": {
+        "runtime": {
+          "Additional Features Assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Additional Features Assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
