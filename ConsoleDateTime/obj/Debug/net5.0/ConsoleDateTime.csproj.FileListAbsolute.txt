@@ -1,0 +1,16 @@
+C:\Users\Chadp\source\repos\ConsoleDateTime\bin\Debug\net5.0\ConsoleDateTime.exe
+C:\Users\Chadp\source\repos\ConsoleDateTime\bin\Debug\net5.0\ConsoleDateTime.deps.json
+C:\Users\Chadp\source\repos\ConsoleDateTime\bin\Debug\net5.0\ConsoleDateTime.runtimeconfig.json
+C:\Users\Chadp\source\repos\ConsoleDateTime\bin\Debug\net5.0\ConsoleDateTime.runtimeconfig.dev.json
+C:\Users\Chadp\source\repos\ConsoleDateTime\bin\Debug\net5.0\ConsoleDateTime.dll
+C:\Users\Chadp\source\repos\ConsoleDateTime\bin\Debug\net5.0\ref\ConsoleDateTime.dll
+C:\Users\Chadp\source\repos\ConsoleDateTime\bin\Debug\net5.0\ConsoleDateTime.pdb
+C:\Users\Chadp\source\repos\ConsoleDateTime\obj\Debug\net5.0\ConsoleDateTime.csproj.AssemblyReference.cache
+C:\Users\Chadp\source\repos\ConsoleDateTime\obj\Debug\net5.0\ConsoleDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chadp\source\repos\ConsoleDateTime\obj\Debug\net5.0\ConsoleDateTime.AssemblyInfoInputs.cache
+C:\Users\Chadp\source\repos\ConsoleDateTime\obj\Debug\net5.0\ConsoleDateTime.AssemblyInfo.cs
+C:\Users\Chadp\source\repos\ConsoleDateTime\obj\Debug\net5.0\ConsoleDateTime.csproj.CoreCompileInputs.cache
+C:\Users\Chadp\source\repos\ConsoleDateTime\obj\Debug\net5.0\ConsoleDateTime.dll
+C:\Users\Chadp\source\repos\ConsoleDateTime\obj\Debug\net5.0\ref\ConsoleDateTime.dll
+C:\Users\Chadp\source\repos\ConsoleDateTime\obj\Debug\net5.0\ConsoleDateTime.pdb
+C:\Users\Chadp\source\repos\ConsoleDateTime\obj\Debug\net5.0\ConsoleDateTime.genruntimeconfig.cache
