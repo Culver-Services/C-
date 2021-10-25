@@ -11,7 +11,9 @@
 
 -Code-First Workflow
 -The following figure illustrates the code-first development workflow. https://www.entityframeworktutorial.net/images/codefirst/dev-workflow.png
--The development workflow in the code-first approach would be: Create or modify domain classes -> configure these domain classes using Fluent-API or data annotation attributes -> -Create or update the database schema using automated migration or code-based migration.
+-The development workflow in the code-first approach would be: Create or modify domain classes 
+-> configure these domain classes using Fluent-API or data annotation attributes 
+-> -Create or update the database schema using automated migration or code-based migration.
 
 
 
