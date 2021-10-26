@@ -29,9 +29,9 @@ public class IndexModel : PageModel
 }
 The content age includes a form that uses the POST method and a hyperlink, which initiates a GET request:
 
-//<h3>@Message</h3>
-//<form method="post"><button class="btn btn-default">Click to post</button></form>
-//<p><a href="/" class="btn btn-default">Click to Get</a></p>
+h3>@Message</h3>
+form method="post"><button class="btn btn-default">Click to post</button></form>
+p><a href="/" class="btn btn-default">Click to Get</a></p>
 When the page is first navigated to, the "Get used" message is displayed because the HTTP GET verb was used for the request, firing the OnGet() handler.
 
 When the "Click to post" button is pressed, the form is posted and the OnPost() handler fires, resulting in the "Post used" message being displayed.
